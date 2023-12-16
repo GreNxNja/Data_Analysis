@@ -80,7 +80,7 @@ To use these programs, follow these general steps:
    ./insertion_sort
    ```
 
-4. Follow specific program instructions for input and expected output.
+4. Implementation: `cat filename.c`
 
 ## Contributing
 
