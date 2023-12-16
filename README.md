@@ -17,49 +17,48 @@ This repository, named "Algorithm_Implementations," is a collection of programs 
 ## Introduction
 
 Welcome to the Algorithm Implementations repository! Here, you'll find implementations of various algorithms, categorized by their respective paradigms. Whether you're a student studying computer science or a developer interested in algorithmic challenges, this repository aims to provide clear and well-documented code for better understanding.
-
 ## Sorting Algorithms
 
 1. **Insertion Sort:**
-   - [Insertion Sort Implementation]
+   - Insertion Sort Implementation
 
 2. **Merge Sort:**
-   - [Merge Sort Implementation]
+   - Merge Sort Implementation
 
 3. **Quick Sort:**
-   - [Quick Sort Implementation]
+   - Quick Sort Implementation
 
 ## Greedy Algorithms
 
 1. **Activity Selection:**
-   - [Activity Selection Implementation]
+   - Activity Selection Implementation
 
 2. **Knapsack Problem:**
-   - [Knapsack Problem Implementation]
+   - Knapsack Problem Implementation
 
 ## Backtracking
 
 1. **N-Queens Problem:**
-   - [N-Queens Problem Implementation]
+   - N-Queens Problem Implementation
 
 ## Graph Algorithms
 
 1. **Depth-First Search (DFS):**
-   - [DFS Implementation]
+   - DFS Implementation
 
 2. **Breadth-First Search (BFS):**
-   - [BFS Implementation]
+   - BFS Implementation
 
 3. **Prims Algorithm:**
-   - [Prims Algorithm Implementation]
+   - Prims Algorithm Implementation
 
 4. **Kruskal's Algorithm:**
-   - [Kruskal's Algorithm Implementation]
+   - Kruskal's Algorithm Implementation
 
 ## Matrix Chain Multiplication
 
 1. **Matrix Chain Multiplication:**
-   - [Matrix Chain Multiplication Implementation]
+   - Matrix Chain Multiplication Implementation
 
 ## Usage
 
