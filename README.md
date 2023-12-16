@@ -21,45 +21,45 @@ Welcome to the Algorithm Implementations repository! Here, you'll find implement
 ## Sorting Algorithms
 
 1. **Insertion Sort:**
-   - [Insertion Sort Implementation](sorting_algorithms/insertion_sort)
+   - [Insertion Sort Implementation]
 
 2. **Merge Sort:**
-   - [Merge Sort Implementation](sorting_algorithms/merge_sort)
+   - [Merge Sort Implementation]
 
 3. **Quick Sort:**
-   - [Quick Sort Implementation](sorting_algorithms/quick_sort)
+   - [Quick Sort Implementation]
 
 ## Greedy Algorithms
 
 1. **Activity Selection:**
-   - [Activity Selection Implementation](greedy_algorithms/activity_selection)
+   - [Activity Selection Implementation]
 
 2. **Knapsack Problem:**
-   - [Knapsack Problem Implementation](greedy_algorithms/knapsack_problem)
+   - [Knapsack Problem Implementation]
 
 ## Backtracking
 
 1. **N-Queens Problem:**
-   - [N-Queens Problem Implementation](backtracking/n_queens_problem)
+   - [N-Queens Problem Implementation]
 
 ## Graph Algorithms
 
 1. **Depth-First Search (DFS):**
-   - [DFS Implementation](graph_algorithms/dfs)
+   - [DFS Implementation]
 
 2. **Breadth-First Search (BFS):**
-   - [BFS Implementation](graph_algorithms/bfs)
+   - [BFS Implementation]
 
 3. **Prims Algorithm:**
-   - [Prims Algorithm Implementation](graph_algorithms/prims_algorithm)
+   - [Prims Algorithm Implementation]
 
 4. **Kruskal's Algorithm:**
-   - [Kruskal's Algorithm Implementation](graph_algorithms/kruskals_algorithm)
+   - [Kruskal's Algorithm Implementation]
 
 ## Matrix Chain Multiplication
 
 1. **Matrix Chain Multiplication:**
-   - [Matrix Chain Multiplication Implementation](matrix_chain_multiplication)
+   - [Matrix Chain Multiplication Implementation]
 
 ## Usage
 
