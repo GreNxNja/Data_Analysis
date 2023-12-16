@@ -66,7 +66,7 @@ To use these programs, follow these general steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Algorithm_Implementations.git
+   git clone https://github.com/BasiliskFTW/Algorithm_Implementations.git
    ```
 
 2. Navigate to the specific algorithm directory and program:
